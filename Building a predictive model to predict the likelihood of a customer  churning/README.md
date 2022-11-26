@@ -1,3 +1,6 @@
+Dataset - .csv file which has been taken from kaggle has been shared in this repository.
+
+
 Dataset Description - The data provides historical customer transactions for a retailer, for purchases made on their ecommerce platform between Dec 2010 to Dec 2011. Customers are uniquely identified by their 
 Customer ID (Col G). 
 
